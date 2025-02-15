@@ -1,1 +1,2 @@
-# latihan-branch
+# ini repository untuk latihan branch
+
